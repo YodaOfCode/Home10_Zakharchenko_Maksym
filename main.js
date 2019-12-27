@@ -6,7 +6,6 @@ function addition (a, b) {
 
 console.log(addition(1, 2))
 
-
 /* subtract */
 
 function subtraction (a, b) {
