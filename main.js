@@ -78,4 +78,3 @@ function factorial (a) {
 }
 
 console.log(factorial(10))
-
