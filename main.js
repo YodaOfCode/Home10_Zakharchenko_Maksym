@@ -33,9 +33,9 @@ console.log(division(4, 2))
 /* number in degree */
 
 function numberInDegree (a, n) {
-    let result = a
+  let result = a
   
-    for(let i = 1; i < n; i++) {
+  for(let i = 1; i < n; i++) {
     result *= a
   }
   return result
